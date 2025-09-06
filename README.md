@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prashant Shukla</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantshukla01&label=Profile%20views&color=0e75b6&style=flat" alt="prashantshukla01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantshukla01" alt="prashantshukla01" /></a> </p>
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **Apache Spark**
 
-- 👯 I’m looking to collaborate on **Android app projects**
+- 👯 I’m looking to collaborate on **Machine learning and Android app projects**
 
-- 🤝 I’m looking for help with **Android Developer**
+- 🤝 I’m looking for help with **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prashantshukla01/prashantshukla01](https://github.com/prashantshukla01/prashantshukla01)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Data science and Android**
 
 - 📫 How to reach me **prashantshukla9812@gmail.com**
 
