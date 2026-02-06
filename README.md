@@ -82,6 +82,3 @@ I am an AI Engineer building autonomous agents that are smarter than my last thr
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
