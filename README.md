@@ -1,84 +1,132 @@
-## Hey 👋, I'm Prashant Shukla!  
-  
+<p align="center">
+  <img src="./github-profile.png" alt="Prashant Shukla" width="100%"/>
+</p>
 
-<a href="github.com/prashantshukla01" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/prashant-shukla-36805a280/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/prashant_shukla_645/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/_prashant2004" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/itsprashant2410" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@er.prashant.1504" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
+<h1 align="center">Hey 👋, I'm Prashant Shukla</h1>
 
+<p align="center">
+  <b>AI/ML Engineer</b> &nbsp;|&nbsp; Agentic Systems &nbsp;|&nbsp; MLOps<br/>
+  Building production AI systems with advanced RAG, observability and evaluation
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashant-shukla-36805a280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prashantshukla9812@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.kaggle.com/itsprashant2410"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://medium.com/@er.prashant.1504"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://x.com/_prashant2004"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-### Glad to see you here!  
-I am an AI Engineer building autonomous agents that are smarter than my last three Slack threads. I specialise in LangChain, LangGraph, MLOps, and Automation Pipelines. Currently fine-tuning LLMs on multi-GPU clusters and praying to the CUDA gods. I build systems that don't just follow instructions—they actually have a plan. (And unlike my GPS, they actually admit when they're lost.)  
-  
+---
 
-<br/>  
+## About
 
+I am an AI Engineer building autonomous agents that are smarter than my last three Slack threads, working on production AI/ML systems. My focus is making advanced RAG and agentic pipelines observable, measurable and reliable.
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-</div>  
+- Building agentic systems with **LangChain**, **LangGraph** and **MCP**
+- Tracing, evaluating and monitoring LLM applications with **LangSmith**, **Langfuse** and **Ragas**
+- Applying probabilistic and Bayesian modelling to real-world decision problems
+- Mentor and core team lead at **Innogeeks**, guiding junior students in machine learning
+- **AWS Certified**: AI Practitioner and Machine Learning Engineer Associate
 
-<br/>  
+---
 
+## Technical Stack
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+    <td width="180"><b>AI ML</b></td>
+    <td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/PyMC-29A9E1?style=for-the-badge" alt="PyMC"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="180"><b>Agents &amp; GenAI</b></td>
+    <td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="180"><b>Observability &amp; Evaluation</b></td>
+    <td>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge" alt="Langfuse"/>
+<img src="https://img.shields.io/badge/Ragas-4B8BBE?style=for-the-badge" alt="Ragas"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="180"><b>MLOps &amp; Cloud</b></td>
+    <td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="180"><b>Backend &amp; Data</b></td>
+    <td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="180"><b>Frontend</b></td>
+    <td>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashantshukla01&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
 
-</td><td valign="top" width="50%">
+## Selected Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantshukla01&hide_border=true&layout=compact" align="left" style="width: 100%" />
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**Patent Gap Finder**](https://github.com/prashantshukla01/Patent-Gap-Finder_MCP) | 9-tool MCP server for patent analysis: claim extraction, IPC/CPC classification and prior-art search | FastMCP, Qdrant, Redis, Docker |
+| **Papeer** | Agentic RAG chatbot with multi-session memory, ArXiv/URL/PDF ingestion and a claim-verification pipeline | LangGraph, LangChain, Qdrant, Streamlit |
+| [**Recovery Decision Engine**](https://github.com/prashantshukla01/Recovery-Decision-Engine) ([demo](https://recovery-decision-engine-00.streamlit.app)) | Calibrated Bayesian engine for recovering failed subscription payments | PyMC, Streamlit |
 
-</td></tr></table>  
+---
 
-<br/>  
+## GitHub Activity
 
-  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prashantshukla01&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantshukla01&hide_border=true&layout=compact&theme=github_dark" alt="Top languages"/>
+</p>
 
-<br/>  
+---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=prashantshukla01&&style=flat-square)  
-  
+## Contact
 
-<br/>  
+I'm open to AI/ML engineering roles and to collaborating on agentic AI, RAG evaluation and MCP tooling.
 
+- Email: [prashantshukla9812@gmail.com](mailto:prashantshukla9812@gmail.com)
+- LinkedIn: [prashant-shukla](https://www.linkedin.com/in/prashant-shukla-36805a280/)
 
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashantshukla01&style=flat-square&color=5bb98c" alt="Profile views"/>
+</p>
